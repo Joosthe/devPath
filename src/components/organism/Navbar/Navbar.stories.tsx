@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 
 // Wrap the Navbar component with BrowserRouter for routing support
 const meta = {
-  title: "Components/Organisms/Navbar",
+  title: "Components/organism/Navbar",
   component: Navbar,
   parameters: {
     layout: "fullscreen", // Ensures the Navbar spans the full width of the viewport
